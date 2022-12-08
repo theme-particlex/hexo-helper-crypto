@@ -1,0 +1,29 @@
+{
+  "name": "hexo-helper-crypto",
+  "version": "1.0.0",
+  "description": "A Hexo helper for encryption and decryption using Crypto-js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argvchs/hexo-helper-crypto.git"
+  },
+  "keywords": [
+    "helper",
+    "hexo",
+    "hexo-plugin",
+    "encryption-decryption",
+    "crypto-js"
+  ],
+  "author": "Argvchs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/argvchs/hexo-helper-crypto/issues"
+  },
+  "homepage": "https://github.com/argvchs/hexo-helper-crypto#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
