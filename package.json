@@ -1,6 +1,6 @@
 {
   "name": "hexo-helper-crypto",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Hexo helper for encryption and decryption using Crypto-js.",
   "main": "index.js",
   "scripts": {

@@ -13,7 +13,7 @@ npm i hexo-helper-crypto -S
 在模板文件（以下使用 EJS 模板引擎）中，添加：
 
 ```ejs
-<% const CryptoJS = cryptojs(); %>
+<% const CryptoJS = crypto(); %>
 ```
 
 然后可以直接使用 `CryptoJS`，和 [Crypto-js](https://github.com/brix/crypto-js) 接口一样
@@ -21,6 +21,6 @@ npm i hexo-helper-crypto -S
 以下例子获取了页面标题的 SHA256 值，并用 Base64 编码
 
 ```ejs
-<% const CryptoJS = cryptojs(); %>
+<% const CryptoJS = crypto(); %>
 <%= CryptoJS.SHA256(page.title).toString(CryptoJS.enc.Base64) %>
 ```
