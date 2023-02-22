@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-npm i hexo-helper-crypto -S
+pnpm hexo-helper-crypto
 ```
 
 ## 使用
