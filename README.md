@@ -2,13 +2,13 @@
 
 [Hexo-Helper-Crypto](https://github.com/argvchs/hexo-helper-crypto) 插件，用于在模板文件内加/解密数据，使用 [Crypto-js](https://github.com/brix/crypto-js)
 
-## 安装
+# 1. 安装
 
 ```bash
-pnpm hexo-helper-crypto
+pnpm add hexo-helper-crypto
 ```
 
-## 使用
+# 2. 使用
 
 在模板文件（以下使用 EJS 模板引擎）中，添加：
 
