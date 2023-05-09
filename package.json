@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/argvchs/hexo-helper-crypto.git"
+    "url": "git+https://github.com/theme-particlex/hexo-helper-crypto.git"
   },
   "keywords": [
     "helper",
@@ -20,9 +20,9 @@
   "author": "Argvchs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/argvchs/hexo-helper-crypto/issues"
+    "url": "https://github.com/theme-particlex/hexo-helper-crypto/issues"
   },
-  "homepage": "https://github.com/argvchs/hexo-helper-crypto#readme",
+  "homepage": "https://github.com/theme-particlex/hexo-helper-crypto#readme",
   "dependencies": {
     "crypto-js": "^4.1.1"
   }

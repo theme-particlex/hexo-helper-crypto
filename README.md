@@ -1,6 +1,6 @@
 # Hexo-Helper-Crypto
 
-[Hexo-Helper-Crypto](https://github.com/argvchs/hexo-helper-crypto) 插件，用于在模板文件内加/解密数据，使用 [Crypto-js](https://github.com/brix/crypto-js)
+[Hexo-Helper-Crypto](https://github.com/theme-particlex/hexo-helper-crypto) 插件，用于在模板文件内加/解密数据，使用 [Crypto-js](https://github.com/brix/crypto-js)
 
 # 1. 安装
 
