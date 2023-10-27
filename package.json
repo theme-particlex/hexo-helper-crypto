@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/theme-particlex/hexo-helper-crypto#readme",
   "dependencies": {
-    "crypto-js": "^4.1.1"
+    "crypto-js": "^4.2.0"
   }
 }
