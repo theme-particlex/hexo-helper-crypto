@@ -1,7 +1,7 @@
 {
   "name": "hexo-helper-crypto",
   "version": "1.1.5",
-  "description": "A Hexo helper for encryption and decryption using Crypto-js.",
+  "description": "A Hexo helper for encryption and decryption using CryptoJS.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
