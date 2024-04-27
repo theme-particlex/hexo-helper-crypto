@@ -1,2 +1,2 @@
 const CryptoJS = require("crypto-js");
-hexo.extend.helper.register("crypto", () => CryptoJS);
+hexo.extend.helper.register("getCryptoJS", () => CryptoJS);
